@@ -87,7 +87,6 @@ Các nhà phân tích sử dụng dữ liệu báo cáo tài chính để đánh
 ![w:700](image%201.png)
 
 ---
-
 **1.2 Bảng cân đối kế toán**
 
 Báo cáo các loại tài sản chính và giá trị của chúng, nợ phải trả, và vốn chủ sở hữu cùng với mối quan hệ giữa chúng tại một thời điểm cụ thể
@@ -97,7 +96,6 @@ Báo cáo các loại tài sản chính và giá trị của chúng, nợ phải
 > Tổng tài sản = Vốn chủ sở hữu + Tổng nợ phải trả
 
 ---
-
 **1.2 Báo cáo thu nhập** 
 
 Báo cáo về hiệu quả hoạt động của công ty (kết quả từ các hoạt động kinh doanh) dựa trên doanh thu, chi phí phát sinh, lãi và lỗ trong kỳ. Báo cáo giúp giải thích hiệu quả sinh lời (không phải dòng tiền) của công ty

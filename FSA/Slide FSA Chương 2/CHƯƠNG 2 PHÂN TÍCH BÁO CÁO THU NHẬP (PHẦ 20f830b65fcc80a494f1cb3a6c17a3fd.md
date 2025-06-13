@@ -1,5 +1,14 @@
+---
+title: "Chương 5 - Trực quan hóa số liệu"
+marp: true
+size: 4:3
+paginate: true
+author: "khanh"
+---
+
 <style>
-/*@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap'); */
+<!-- @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap'); -->
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 
 :root {
@@ -9,7 +18,7 @@
   --textColor: #3a3a3a;
   font-size: 25px;
   font-weight: 300;
-  font-family: 'TIMES NEW ROMAN', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 header {
@@ -50,21 +59,22 @@ section::after {
   content: 'Page ' attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
   font-size: 16px;
 }
+
 </style>
 # CHƯƠNG 2: PHÂN TÍCH BÁO CÁO THU NHẬP (PHẦN 1)
-1.1 
+---
+**1.1 Giới thiệu** 
 
-**Giới thiệu** 
-
-Báo cáo thu nhập là một trong những loại báo cáo thu hút sự chú ý của thị trường nhất mỗi khi kỳ báo cáo tài chính đến. Trong đó, thành phần thường xuyên được để ý nhất là lợi nhuận sau thuế
+>Báo cáo thu nhập là một trong những loại báo cáo thu hút sự chú ý của thị trường nhất mỗi khi kỳ báo cáo tài chính đến. Trong đó, thành phần thường xuyên được để ý nhất là lợi nhuận sau thuế
 
 Tuy nhiên, để hiểu rõ lợi nhuận sau thuế được tính toán như nào, việc nắm bắt được các nguyên tắc cơ bản về hạch toán báo cáo thu nhập là không thể thiếu 
 
 ---
 
-1.2
+**1.2 Hạch toán doanh thu** 
 
-**Hạch toán doanh thu** 
+<div style="font-size: 0.85em">
+
 
 Nguyên tắc cơ sở dồn tích 
 
@@ -73,24 +83,32 @@ Nguyên tắc cơ sở dồn tích
 
 ---
 
-1.2
-
-**Hạch toán doanh thu** 
+**1.2 Hạch toán doanh thu** 
+<div style="font-size: 0.85em">
 
 Nguyên tắc cơ sở dồn tích 
 
 - **Khi giao hàng trên cơ sở tín dụng**:
     - Nếu giao hàng được thực hiện **trên cơ sở tín dụng**, một tài sản liên quan (như **phải thu** hoặc **công nợ phải thu**) sẽ được ghi nhận
     - Sau đó, khi tiền mặt được nhận, các sổ sách tài chính chỉ đơn giản phản ánh việc thanh toán để giải quyết khoản phải thu
+
+---
+**1.2 Hạch toán doanh thu** 
+<div style="font-size: 0.85em">
+
+
+
+Nguyên tắc cơ sở dồn tích 
 - **Khi nhận tiền trước nhưng giao hàng sau**:
     - Trong trường hợp công ty **nhận tiền trước** (ví dụ thanh toán trước cho dịch vụ), nhưng **giao hàng hoặc cung cấp dịch vụ sau** (hoặc dần dần trong một khoảng thời gian), công ty sẽ ghi nhận một **nợ phải trả** (liability) cho doanh thu chưa thực hiện (unearned revenue) khi nhận tiền
     - **Doanh thu sẽ được công nhận dần dần** khi sản phẩm hoặc dịch vụ được giao
 
 ---
 
-1.3
+**1.3 Hạch toán chi phí** 
+<div style="font-size: 0.85em">
 
-**Hạch toán chi phí** 
+
 
 Nguyên tắc đối ứng
 
@@ -99,19 +117,21 @@ Nguyên tắc đối ứng
 
 ---
 
-1.4
+**1.4 Các khoản mục không thường xuyên** 
+<div style="font-size: 0.85em">
 
-**Các khoản mục không thường xuyên** 
 
-Đây là những giao dịch, sự kiện hoặc khoản mục chỉ xảy ra một lần hoặc hiếm khi xảy ra, không phải là phần của hoạt động kinh doanh thường xuyên. Những khoản mục này có thể bao gồm **chi phí tái cấu trúc**, **lợi nhuận/lỗ từ việc bán tài sản**, hoặc **thiệt hại từ thiên tai**. Các khoản mục không thường xuyên khi phân tích nên được tách biệt khỏi các khoản mục thường xuyên để người dùng báo cáo tài chính có thể đánh giá chính xác hơn hiệu quả hoạt động của công ty
+
+> Đây là những giao dịch, sự kiện hoặc khoản mục chỉ xảy ra một lần hoặc hiếm khi xảy ra, không phải là phần của hoạt động kinh doanh thường xuyên. Những khoản mục này có thể bao gồm **chi phí tái cấu trúc**, **lợi nhuận/lỗ từ việc bán tài sản**, hoặc **thiệt hại từ thiên tai**. 
+
+>Các khoản mục không thường xuyên khi phân tích nên được tách biệt khỏi các khoản mục thường xuyên để người dùng báo cáo tài chính có thể đánh giá chính xác hơn hiệu quả hoạt động của công ty
 
 **Ví dụ**: Một công ty sản xuất lớn tại Việt Nam thực hiện tái cấu trúc bộ phận sản xuất, bao gồm việc sa thải nhân viên và chi phí đóng cửa một nhà máy. Các khoản chi phí này là không thường xuyên vì chúng không phải là một phần của hoạt động hàng ngày
 
 ---
 
-1.5
-**Earnings Per Share**
-
+**1.5 Earnings Per Share**
+<div style="font-size: 0.85em">
 Đây là chỉ số thể hiện khả năng sinh lời trên mỗi cổ phiếu
 
 Chỉ số EPS gồm 2 loại là 
@@ -125,10 +145,9 @@ Chỉ số EPS gồm 2 loại là
 
 ---
 
-1.6 
+**1.6 Basic EPS**
 
-**Basic EPS**
-
+<div style="font-size: 0.85em">
 Thông tin:
 
 - **Lãi ròng**: 8 triệu đồng
@@ -146,10 +165,9 @@ $$
 
 ---
 
-1.6 
+**1.6 Diluted EPS**
 
-**Diluted EPS**
-
+<div style="font-size: 0.85em">
 Thông tin:
 
 - **Lãi ròng**: 8 triệu đồng
