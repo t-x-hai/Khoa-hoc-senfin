@@ -128,23 +128,38 @@ Nguyên tắc đối ứng
 
 **Ví dụ**: Một công ty sản xuất lớn tại Việt Nam thực hiện tái cấu trúc bộ phận sản xuất, bao gồm việc sa thải nhân viên và chi phí đóng cửa một nhà máy. Các khoản chi phí này là không thường xuyên vì chúng không phải là một phần của hoạt động hàng ngày
 
+
+---
+
+**1.5 Earnings Per Share**
+>EPS cho biết khả năng sinh lời trên mỗi cổ phiếu. EPS có thể được dùng để theo dõi khả năng sinh lời của công ty theo thời gian hoặc dùng để so sánh giữa các công ty với nhau.
+
+
+
+---
+**1.5 Earnings Per Share**
+<div style="font-size: 0.85em">
+
+**Phân loại**
+- **EPS cơ bản**: Là lãi ròng chia cho số cổ phiếu trên sổ sách
+- **EPS pha loãng**: Là lãi ròng chia cho số cổ phiếu trên sổ sách + số cổ phiếu tiềm năng từ các công cụ tài chính khác chuyển sang
+
+**EPS cơ bản** giúp đánh giá khả năng sinh lời của công ty. Sau đó, **EPS pha loãng** cho thấy khả năng sinh lời đó có bị ảnh hưởng gì không khi tính đến các yếu tố như cổ phiếu tiềm năng hoặc chứng khoán có thể chuyển đổi
+</div>
+
 ---
 
 **1.5 Earnings Per Share**
 <div style="font-size: 0.85em">
-Đây là chỉ số thể hiện khả năng sinh lời trên mỗi cổ phiếu
 
-Chỉ số EPS gồm 2 loại là 
 
-- Basic EPS : Là lãi ròng chia cho số cổ phiếu trên sổ sách
-- Diluted EPS : Là lãi ròng chia cho số cổ phiếu trên sổ sách + số cổ phiếu tiềm năng từ các công cụ tài chính khác chuyển sang
+
 
 **Công thức**
-
 ![image.png](image.png)
+</div>
 
 ---
-
 **1.6 Basic EPS**
 
 <div style="font-size: 0.85em">
@@ -182,3 +197,26 @@ Diluted\space EPS = \frac{8,000,000 - 1,000,000}{5,000,000 + 500,000} = 1.27
 $$
 
 Đơn vị: Triệu VND/ cổ phiếu
+
+---
+**1.7 Ví dụ**
+
+<div style="font-size: 0.85em">
+
+|  | VIC | VRE | NVL | VNM | MSN |
+| --- | --- | --- | --- | --- | --- |
+| EPS cơ bản 4 quý gần nhất | 2.823 | 1.844 | -3.247 | 4.194 | 1.519 |
+| EPS pha loãng 4 quý gần nhất | 2.749 | 1.844 | -2.945 | 4.194 | 1.519 |
+
+<div style="font-size: 0.95em; margin-left: 80%">
+
+***Nguồn: SSI***
+</div>
+<div style = "font-size: 1em; margin-left: 7%">
+
+**Bảng: Tổng hợp EPS cơ bản và EPS của một số doanh nghiệp**
+
+</div>
+
+>Tại Việt Nam, đa phần các doanh nghiệp có cấu trúc tài chính không quá phức tạp, từ đó dẫn đến việc EPS cơ bản và EPS pha loãng không có sự khác biệt. Tuy nhiên, vẫn có một vài trường hợp đặc biệt như VIC và NVL có EPS pha loãng khác với EPS cơ bản
+</div>
