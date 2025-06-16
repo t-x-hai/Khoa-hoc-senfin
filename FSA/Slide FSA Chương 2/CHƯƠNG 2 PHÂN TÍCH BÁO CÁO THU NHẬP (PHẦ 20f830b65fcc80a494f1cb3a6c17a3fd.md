@@ -1,9 +1,11 @@
+
 ---
 title: "Chương 5 - Trực quan hóa số liệu"
 marp: true
 size: 4:3
 paginate: true
 author: "khanh"
+
 ---
 
 <style>
@@ -61,6 +63,7 @@ section::after {
 }
 
 </style>
+---
 # CHƯƠNG 2: PHÂN TÍCH BÁO CÁO THU NHẬP (PHẦN 1)
 ---
 **1.1 Giới thiệu** 

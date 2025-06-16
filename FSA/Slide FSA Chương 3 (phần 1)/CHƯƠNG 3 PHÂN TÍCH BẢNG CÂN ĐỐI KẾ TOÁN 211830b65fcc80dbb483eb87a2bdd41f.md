@@ -155,7 +155,7 @@ Dựa trên tính thanh khoản
 </div>
 <div style="font-size: 0.7em;">
 
-| **Khoản mục** | **Giải thích**  |
+| **Khoản mục** | **Giải thích**  | 
 | --- | --- |
 | **Thuế thu nhập doanh nghiệp hoãn lại phải trả** *(Deferred tax liabilities)* | Là số thuế doanh nghiệp sẽ phải nộp trong tương lai do sự khác biệt về thời điểm ghi nhận doanh thu/chi phí giữa chuẩn mực kế toán và quy định thuế. |
 | **Khoản nợ tài chính dài hạn** *(Long-term financial liabilities)* | Bao gồm các nghĩa vụ tài chính kéo dài trên một năm như khoản vay ngân hàng, trái phiếu, hoặc thương phiếu mà doanh nghiệp cam kết thanh toán trong tương lai. |
