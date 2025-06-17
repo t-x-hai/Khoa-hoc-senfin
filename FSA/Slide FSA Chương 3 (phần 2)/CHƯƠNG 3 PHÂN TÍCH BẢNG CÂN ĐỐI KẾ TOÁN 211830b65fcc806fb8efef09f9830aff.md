@@ -24,9 +24,9 @@ Từ đó giúp so sánh cấu trúc tài sản và nguồn vốn qua **các gia
 ---
 
 **1.3 Ví dụ** 
-<div style="font-size: 0.55em; margin-left: 12%">
+<div style="font-size: 0.55em; margin-left: 8%">
 
-**Bảng: Các khoản mục tài sản theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép**
+**Bảng: Các khoản mục tài sản theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép (tỷ VND)**
 </div>
 <div style="font-size: 0.45em; margin-left: 10%">
 
@@ -70,9 +70,9 @@ HSG và NKG có cơ cấu tài sản tương đối giống nhau, với **tài s
 
 **1.3 Ví dụ** 
 
-<div style="font-size: 0.5em; margin-left: 7%">
+<div style="font-size: 0.5em; margin-left: 4%">
 
-**Bảng: Các khoản mục nợ ngắn hạn và dài hạn theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép**
+**Bảng: Các khoản mục nợ ngắn hạn và dài hạn theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép (tỷ VND)**
 </div>
 <div style="font-size: 0.5em; margin-left: 5%">
 
@@ -113,9 +113,9 @@ HSG và NKG có cơ cấu tài sản tương đối giống nhau, với **tài s
 
 **1.3 Ví dụ** 
 
-<div style="font-size: 0.55em; margin-left: 9%">
+<div style="font-size: 0.55em; margin-left: 5%">
 
-**Bảng: Các khoản mục về nguồn vốn theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép**
+**Bảng: Các khoản mục về nguồn vốn theo tỷ trọng của 3 doanh nghiệp lớn trong nghành thép (tỷ VND)**
 </div>
 
 <div style="font-size: 0.45em; margin-left: 10%">
