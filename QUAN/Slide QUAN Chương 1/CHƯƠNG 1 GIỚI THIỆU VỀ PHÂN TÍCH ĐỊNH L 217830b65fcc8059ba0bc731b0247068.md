@@ -18,9 +18,7 @@ paginate: true
 - Giá trị thời gian của dòng tiền
 - Tổ chức, trực quan hóa và mô tả dữ liệu
 - Lý thuyết xác suất
-- Phân phối xác suất
-- Lấy mẫu và ước lượng tham số
-- Kiểm định giả thuyết thống kê
+- Mô phỏng Monte Carlo
 - Giới thiệu về hồi quy tuyến tính
 </div>
 
@@ -53,32 +51,14 @@ paginate: true
 
 ---
 
-**1.5 Phân phối xác suất** 
+**1.5 Mô phỏng Monte Carlo** 
 
-- Biến ngẫu nhiên và các Phân phối cơ bản
-- Phân phối Chuẩn và Phân phối Lognormal
-- Các Phân phối quan trọng khác trong Thống kê
-- Phương pháp Mô phỏng
-
----
-
-**1.6 Lấy mẫu và ước lượng tham số**
-
-- Ước lượng Tham số Tổng thể
-- Các vấn đề trong Lấy mẫu và Phân tích
+- Giả định
+- Quy trình thực hiện
+- Ứng dụng trong tài chính 
 
 ---
 
-**1.7 Kiểm định giả thuyết thống kê**
-
-- Nền tảng của Kiểm định Giả thuyết
-- Các bài toán Kiểm định Tham số thường gặp
-- Kiểm định Phi tham số
-
----
-
-**1.8 Giới thiệu về hồi quy tuyến tính** 
+**1.6 Giới thiệu về hồi quy tuyến tính** 
 
 - Nền tảng của Mô hình Hồi quy Tuyến tính Đơn
-- Đánh giá Độ phù hợp và Kiểm định Giả thuyết
-- Ứng dụng và các Dạng hàm Hồi quy
